@@ -18,7 +18,7 @@
         },
         methods:{
             getCoins: function() {
-                return axios('https://raw.githubusercontent.com/ForkMaps/cryptonote/master/dist/coins.json')
+                return axios('https://raw.githubusercontent.com/helder-garcia/nb51-f/master/dist/coins.json')
                 .then((response) => {
                     let coins = response.data;
                     buildTree(coins);

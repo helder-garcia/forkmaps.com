@@ -1,5 +1,5 @@
 {
-  "name": "forkmaps.com",
+  "name": "nb51-s",
   "version": "1.0.0",
   "description": "Map of coin forks",
   "author": "JerMe404",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerme404/ForkMaps/forkmaps.com.git"
+    "url": "git+https://github.com/helder-garcia/nb51-s.git"
   },
   "bugs": {
-    "url": "https://github.com/ForkMaps/forkmaps.com/issues"
+    "url": "https://github.com/helder-garcia/nb51-s/issues"
   },
   "homepage": "http://forkmaps.com",
   "dependencies": {
